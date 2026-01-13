@@ -1,4 +1,4 @@
-# Netflix Task Submission
+# Netflix-Sign-Up-page-
 
 This project is a **Netflix Sign Up Page** created using **HTML5** and **external CSS**.
 

@@ -68,7 +68,7 @@
   margin-bottom: 20px;
 }
 
-#already-account {
+#already-have-account {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -82,6 +82,7 @@
   font-size: 13px;
   color: #737373;
 }
+
 #re-captcha {
   margin-top: 25px;
   font-size: 11px;

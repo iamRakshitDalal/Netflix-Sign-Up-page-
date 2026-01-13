@@ -33,13 +33,13 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#signUpCart {
+#signUp-card {
   flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-#signUpBox {
+#signUp-box {
   width: 380px;
   background: rgba(0, 0, 0, 0.75);
   padding: 60px;
@@ -55,7 +55,7 @@
   margin-top: 3px;
 }
 
-#signUpButton {
+#signUp-button {
   width: 100%;
   padding: 14px;
   background: #e50914;
@@ -68,21 +68,21 @@
   margin-bottom: 20px;
 }
 
-#alreadyAccount {
+#already-account {
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 14px;
   color: #b3b3b3;
 }
-#contactinfoBox {
+#contact-info-box {
   display: flex;
   justify-content: center;
   margin-top: 25px;
   font-size: 13px;
   color: #737373;
 }
-#reCAPTCHA {
+#re-captcha {
   margin-top: 25px;
   font-size: 11px;
   color: #8c8c8c;
@@ -98,7 +98,7 @@
   font-size: 13px;
   color: #b3b3b3;
 }
-.contactbox {
+.contact-box {
   margin-left: 8px;
 }
 #header {
